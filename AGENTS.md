@@ -1,4 +1,4 @@
-# CLAUDE.md
+# AGENST.md
 
 Codex will review you work once you are done.
 
